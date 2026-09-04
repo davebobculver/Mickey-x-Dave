@@ -1,4 +1,4 @@
-# Mickey x Dave — EEG Alpha Rhythm Analysis
+#EEG Alpha Rhythm Analysis
 
 A small signal-processing project on human EEG recorded during an eyes-closed and an
 eyes-open condition. The goal is to find the **alpha rhythm** (~8–13 Hz oscillation over
